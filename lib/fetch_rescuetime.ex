@@ -1,0 +1,2 @@
+defmodule FetchRescuetime do
+end
